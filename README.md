@@ -35,34 +35,6 @@ This repository is a showcase of my skills, projects, and my journey in Data Ana
 ## Portfolio Projects
 In this section, I will briefly describe data analytics projects, the technologies I used, and the skills applied to solve each case.
 
-## Study of Improving Social Media Marketing Using Data Mining
-- Goal: To optimize social media marketing strategies using data mining techniques.
-- Code: https://github.com/anigode/Data_Analysis-of-Youtube-data-using-youtubev3-API
-- Description: This project involved applying decision trees and deep learning algorithms to improve marketing strategies. The goal was to optimize key marketing strategies and reduce report generation time.
-- Skills: Data mining, decision tree, deep learning, data visualization.
-- Technology: Python, R, Power BI, API.
-- Results: Elevated the model’s F1, Accuracy, and Precision score from 72% to 87%, identified four key marketing strategies, and reduced reporting time by 35%.
-## Diabetes Detection
-- Goal: To develop a machine learning model to predict diabetes outcomes.
-- Code: https://github.com/anigode/Diabetes-Detection
-- Description: Built a predictive model using decision tree, random forest, and logistic regression algorithms. Focused on feature scaling and data preprocessing to improve accuracy.
-- Skills: Machine learning, data preprocessing, decision tree, random forest, logistic regression.
-- Technology: Python, Scikit-learn, Pandas, Matplotlib.
-- Results: Optimized prediction accuracy by 80% using feature scaling and data preprocessing on a dataset of 768 records.
-## E-commerce Data Analysis
-- Goal: To forecast future sales for an e-commerce store using time-series analysis.
-- Code: https://github.com/anigode/E-commerce-Data-Analysis
-- Description: This project involved analyzing sales data and applying time-series forecasting models to predict sales. The ARIMA model was used to forecast sales with high accuracy.
-- Skills: Time series analysis, ARIMA, data visualization.
-- Technology: Python, ARIMA, Pandas, Matplotlib.
-- Results: Achieved a 95% accuracy rate in a 30-day sales forecast, leveraging daily transaction data from over 1,000 customers.
-## Multi-Class Classification of Tweets
-- Goal: To classify tweets into multiple categories based on their content.
-- Code: https://github.com/anigode/Multi-class_Classification_of_Tweets
-- Description: This project involved applying TF-IDF for feature extraction and text preprocessing. I used sentiment analysis APIs to classify and analyze a dataset of 50,000 tweets.
-- Skills: Text classification, TF-IDF, sentiment analysis, text preprocessing.
-- Technology: Python, APIs.
-- Results: Efficiently classified tweets using multi-class classification techniques and extracted insights from large-scale tweet data.
 ## Fake News Detection
 - Goal: To classify whether a news article is fake or real using natural language processing (NLP) techniques.
 - Code: https://github.com/anigode/Fake-news-detection
@@ -77,6 +49,34 @@ In this section, I will briefly describe data analytics projects, the technologi
 - Skills: Data cleaning, machine learning, recommendation systems.
 - Technology: Python, Cosine Similarity, Matrix Factorization, Pandas, Seaborn.
 - Results: Achieved 95% accuracy in predicting movie ratings for over 20 million records.
+- ## E-commerce Data Analysis
+- Goal: To forecast future sales for an e-commerce store using time-series analysis.
+- Code: https://github.com/anigode/E-commerce-Data-Analysis
+- Description: This project involved analyzing sales data and applying time-series forecasting models to predict sales. The ARIMA model was used to forecast sales with high accuracy.
+- Skills: Time series analysis, ARIMA, data visualization.
+- Technology: Python, ARIMA, Pandas, Matplotlib.
+- Results: Achieved a 95% accuracy rate in a 30-day sales forecast, leveraging daily transaction data from over 1,000 customers.
+## Study of Improving Social Media Marketing Using Data Mining
+- Goal: To optimize social media marketing strategies using data mining techniques.
+- Code: https://github.com/anigode/Data_Analysis-of-Youtube-data-using-youtubev3-API
+- Description: This project involved applying decision trees and deep learning algorithms to improve marketing strategies. The goal was to optimize key marketing strategies and reduce report generation time.
+- Skills: Data mining, decision tree, deep learning, data visualization.
+- Technology: Python, R, Power BI, API.
+- Results: Elevated the model’s F1, Accuracy, and Precision score from 72% to 87%, identified four key marketing strategies, and reduced reporting time by 35%.
+## Diabetes Detection
+- Goal: To develop a machine learning model to predict diabetes outcomes.
+- Code: https://github.com/anigode/Diabetes-Detection
+- Description: Built a predictive model using decision tree, random forest, and logistic regression algorithms. Focused on feature scaling and data preprocessing to improve accuracy.
+- Skills: Machine learning, data preprocessing, decision tree, random forest, logistic regression.
+- Technology: Python, Scikit-learn, Pandas, Matplotlib.
+- Results: Optimized prediction accuracy by 80% using feature scaling and data preprocessing on a dataset of 768 records.
+## Multi-Class Classification of Tweets
+- Goal: To classify tweets into multiple categories based on their content.
+- Code: https://github.com/anigode/Multi-class_Classification_of_Tweets
+- Description: This project involved applying TF-IDF for feature extraction and text preprocessing. I used sentiment analysis APIs to classify and analyze a dataset of 50,000 tweets.
+- Skills: Text classification, TF-IDF, sentiment analysis, text preprocessing.
+- Technology: Python, APIs.
+- Results: Efficiently classified tweets using multi-class classification techniques and extracted insights from large-scale tweet data.
 ## Credit Risk Analysis
 - Goal: To predict the likelihood of credit default for loans using predictive modeling.
 - Code: https://github.com/anigode/Credit-risk
