@@ -101,7 +101,7 @@ In this section, I will briefly describe data analytics projects, the technologi
 ## Education
 - University of Sunderland, UK
 Master of Data Science, Sep 2022 - Sep 2023
-- LTCE Mumbai, India
+- Lokmanya Tilak College of Engineering, Mumbai, India
 Bachelor’s in Computer Engineering, July 2017 - July 2021
 
 ## Certificates
