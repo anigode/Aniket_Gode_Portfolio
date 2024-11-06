@@ -7,7 +7,7 @@ In my previous roles, I worked on analyzing Amazon reviews, social media marketi
 
 In my free time, I enjoy exploring advanced machine learning algorithms and building interactive dashboards for various business use cases.
 
-My CV in [PDF] (https://github.com/anigode/Aniket-Gode---Portfolio-/blob/main/Aniket_Gode_Data_Analyst_CV.pdf)
+My CV in [[PDF](https://github.com/anigode/Aniket-Gode---Portfolio-/blob/main/Aniket_Gode_Data_Analyst_CV.pdf)]
 
 This repository is a showcase of my skills, projects, and my journey in Data Analytics and Data Science.
 
