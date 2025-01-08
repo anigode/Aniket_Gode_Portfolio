@@ -27,8 +27,10 @@ This repository is a showcase of my skills, projects, and my journey in Data Ana
   - Crop Recommendation Model
 - Excel / Google Sheets
   - Amazon Product Review Analysis
+  - House Price Prediction
+  - Retail Sales Analytics
 - Tableau / Power BI
-  - Social Media Marketing Analysis
+  - Study of Improving Social Media Marketing Analysis
 - Education
 - Certificates
 - Contact
@@ -98,6 +100,29 @@ In this section, I will briefly describe data analytics projects, the technologi
 - Skills: NLP, text mining, sentiment analysis.
 - Technology: Python, Pandas, Matplotlib.
 - Results: Identified key themes and trends in product reviews over a 12-month period.
+## Retail Sales Analytics
+- Goal: Analyze sales patterns, marketing efficiency, and the impact of discounts using Excel dashboards.
+- Code: https://github.com/anigode/Retail_Sales_Analytics_Excel
+- Description: This project uses pivot tables, charts, and slicers to assess retail sales data. The goal was to identify sales trends, optimize discount strategies, and evaluate marketing spend effectiveness.
+- Skills: Microsoft Excel, Pivot Tables, Dashboard Design, Data Visualization.
+- Technology: Excel, Pivot Charts, Slicers, GitHub.
+- Results:
+ - Sales peaked on weekends, with Saturday generating the highest volume.
+ - Discounts of 15-20% resulted in the highest units sold.
+ - Furniture and Electronics categories contributed most to total revenue.
+ - Marketing spends between $150-$200 correlated with higher sales, especially in high-value categories.
+## House Price Prediction Dashboard
+- Goal: Predict and analyze house prices based on various attributes using Excel.
+- Code: https://github.com/anigode/House_Price_Prediction_Excel_Dashboard
+- Description: Built an interactive dashboard to explore how factors like area, location, condition, and year built influence house prices. This project involved data preprocessing, feature engineering, and visualization through Excel tools.
+- Skills: Microsoft Excel, Pivot Tables, Data Analysis, Dashboard Creation.
+- Technology: Excel, Pivot Charts, Data Categorization.
+- Results:
+ - Larger houses occupy Premium price brackets, while smaller homes fall under Low to Medium categories.
+ - Urban and Downtown areas drive higher property values.
+ - Homes in Excellent condition consistently fall into High and Premium price ranges.
+ - Properties with garages and more floors (3+) command higher prices.
+ - Houses built post-2000 are valued higher than older constructions.
 ## Education
 - University of Sunderland, UK
 Master of Data Science, Sep 2022 - Sep 2023
@@ -111,6 +136,6 @@ Bachelor’s in Computer Engineering, July 2017 - July 2021
 - SQL for Data Analysis – LinkedIn Learning (Jul 2023)
 - Microsoft Power BI – Udemy (Apr 2021)
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/aniket-gode-289441230/
+- LinkedIn: https://www.linkedin.com/in/aniket-gode/
 - Email: godeani21@gmail.com
 - Phone: 07586272146
