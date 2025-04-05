@@ -137,5 +137,5 @@ Bachelor’s in Computer Engineering, July 2017 - July 2021
 - Microsoft Power BI – Udemy (Apr 2021)
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/aniket-gode/
-- Email: godeani21@gmail.com
+- Email: aniketgode210@gmail.com
 - Phone: 07586272146
